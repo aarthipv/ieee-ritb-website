@@ -258,89 +258,132 @@ export default function Home() {
               </h1>
 
               <div className="mt-10 grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
-                <Member
-                  name="Abhinav Benagi"
+              <Member
+                  name="Pavan Kumar K."
                   designation="Chair"
-                  link="https://www.linkedin.com/in/abhinav-benagi-878aa7208"
-                  image="https://drive.google.com/uc?id=11nrdHtzn1Dy5L7vJVwIfAqKK0_uLc9-q&export=view"
-                ></Member>
-
-                <Member
-                  name="Pavan Kumar K"
-                  designation="Vice-Chair"
                   link="https://www.linkedin.com/in/pavan-kumar-k-036a85202/"
                   image="https://drive.google.com/uc?id=1X-_2Cm1RW2D799UqmcVIlshkAqg-K3Jc&export=view"
                 ></Member>
 
                 <Member
-                  name="Vinit V Shenvi"
-                  designation="Secretary"
+                  name="Mohammad Sarmuddin T."
+                  designation="Vice-Chair"
                   link="None"
-                  image="https://drive.google.com/uc?id=1f_B2nxgnEjdIgpO2t1owLxEl5SRyR4Xk&export=view"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Mohammed%20Sarmuddin(1MS22ME057).jpg"
+                ></Member>
+
+                <Member
+                  name="Jeeva M."
+                  designation="Secretary"
+                  link="https://www.linkedin.com/in/jeeva-m-82b66322a"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/JEEVA_1MS21EC052.jpg"
+                ></Member>
+
+                <Member
+                  name="Sathvik Rao"
+                  designation="Tech Head"
+                  link="http://linkedin.com/in/sathvik-rao-2aa803259"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Sathvik%20Rao_1MS22EC117.jpg"
                 ></Member>
 
                 <Member
                   name="Sheik Mohammed Maaz"
                   designation="Member"
-                  link="None"
+                  link="https://www.linkedin.com/in/sheik-mohammad-maaz-50a17620b/"
                   image="https://drive.google.com/uc?id=1hQx-suzNPqigjLV2UYhV3J_Z96eXOTBA&export=view"
                 ></Member>
-
+                
                 <Member
-                  name="Jeeva M"
-                  designation="Member"
-                  link="https://www.linkedin.com/in/jeeva-m-82b66322a"
-                  image="https://drive.google.com/uc?id=1l47pvLR-mQTp-t376GHXErVnC37ClCK_&export=view"
-                ></Member>
-
-                <Member
-                  name="Suhas Y"
-                  designation="Member"
-                  link="https://www.linkedin.com/in/suhas-y-9a477021b/"
-                  image="https://drive.google.com/uc?id=1DDrxS9zGUXCrwOMQdIsKY3BjdVWkzA02&export=view"
-                ></Member>
-
-                <Member
-                  name="S Meena Kumari"
+                  name="S. Meena Kumari"
                   designation="Member"
                   link="https://www.linkedin.com/mwlite/in/meena-kumari-subramanyam-b28b56229"
                   image="https://drive.google.com/uc?id=1Zi2Su7aLO8HmBbSjr5APka8rzMnPzsTx&export=view"
                 ></Member>
-
+                
                 <Member
-                  name="Mohammad Sarmuddin T"
-                  designation="Member"
-                  link="None"
-                  image="https://drive.google.com/uc?id=1U1JaLOFVTQB8MPy9mWkA4s_L5Qf2uCHz&export=view"
-                ></Member>
-
-                <Member
-                  name="Sathvik Rao"
-                  designation="Member"
-                  link="http://linkedin.com/in/sathvik-rao-2aa803259"
-                  image="https://drive.google.com/uc?id=1KgNvR3I49MaK6Hk7kmqXsGCPNkk6itZD&export=view"
-                ></Member>
-
-                <Member
-                  name="Sharu U"
+                  name="Shaaru U."
                   designation="Member"
                   link="https://www.linkedin.com/in/shaaru-u-514976227"
-                  image="https://drive.google.com/uc?id=1Jq3QoETsvoXkTEXnB-FSt2aZX05uE6Vf&export=view"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Shaaru_U_1MS21EI050.jpg"
                 ></Member>
-
+                
                 <Member
                   name="Hemanth Kumar NVS"
                   designation="Member"
                   link="None"
-                  image="https://drive.google.com/uc?id=1KJALa7viNXLSlm2NZy3ScIirkXmWw1LS&export=view"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Hemanth%20Kumar%20NVS_1MS22AD027.JPG"
+                ></Member>
+                
+                <Member
+                  name="Suhas Y"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/suhas-y-2e5l8/"
+                  image="https://drive.google.com/uc?id=1DDrxS9zGUXCrwOMQdIsKY3BjdVWkzA02&export=view"
                 ></Member>
 
                 <Member
-                  name="Priyanshu bhojwani"
+                  name="Nagashree N. S."
                   designation="Member"
-                  link="https://www.linkedin.com/in/priyanshu-bhojwani-b01a6826b"
-                  image="https://drive.google.com/uc?id=13m4OGT5iP88oMQZqlt4NSDmtkH6Woiz1&export=view"
+                  link=""
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/IMG_20231126_013217.jpg"
                 ></Member>
+
+                <Member
+                  name="Mohit Kumar"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/mohit-kumar-00903b293/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Mohit%20Kumar_1MS23IS033-T.png"
+                ></Member>
+
+                <Member
+                  name="Aniket Belgaonkar"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/aniket-belgaonkar-63098b293/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/DSC_0059.jpeg"
+                ></Member>
+
+                <Member
+                  name="Kushi Kaveramma K.S."
+                  designation="Member"
+                  link="None"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Kushi%20Kaveramma%20K.S_1MS23CS103-T.jpeg"
+                ></Member>
+
+                <Member
+                  name="Ryan Gomez"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/ryan-gomez-a1a216276/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Ryan%20Gomez%201MS23EC055-T.jpeg"
+                ></Member>
+
+                <Member
+                  name="Darshan Satish Kumar"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/darshan-satish-kumar-907a56268/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Darshan%20Satish%20Kumar%2C%201MS22ET010%20.jpg"
+                ></Member>
+                
+                <Member
+                  name="Chirag P.V."
+                  designation="Member"
+                  link="None"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/CHIRAG%20P%20V%201MS23ET404-T.jpg"
+                ></Member>
+
+                <Member
+                  name="Jai Vishnu D.K."
+                  designation="Member"
+                  link="None"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Jai%20Vishnu%20DK_1MS23EC046.jpg"
+                ></Member>
+                
+                <Member
+                  name="Illaquan Rajesh Indu"
+                  designation="Member"
+                  link="None"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/roborit/Ilaqquan%20Rajesh%20Indu-%20%201MS22EC050%20.jpg"
+                ></Member>
+                
               </div>
             </div>
           </div>

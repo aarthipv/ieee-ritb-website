@@ -90,24 +90,80 @@ export default function Home() {
 
               <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
                 <Member
-                  name="Adya S"
+                  name="Souhadra Shrivastava"
                   designation="Chair"
-                  link="https://www.linkedin.com/in/adya-samantray-84215a200"
-                  image="https://drive.google.com/uc?id=15QziUgj0UJA9wnnIonjlzTOnyHpQVIwN&export=download"
+                  link="#"
+                  image="#"
                 ></Member>
 
                 <Member
-                  name="Varsha J"
+                  name="Tanish P Hegde"
                   designation="Secretary"
-                  link="https://www.linkedin.com/in/varsha-j-173124254"
-                  image="https://drive.google.com/uc?id=19TsuI_Dud9wXH_lEi68jumWEdWN3eRfs&export=view"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1Gh1IShu0AG3wjKhOVEEsUNMCWtMA_Aia"
                 ></Member>
 
                 <Member
-                  name="Vyoma Bharadwaj"
-                  designation="Treasurer"
-                  link="https://www.linkedin.com/in/vyomaa-bharadwaj-666aba212"
-                  image="https://drive.google.com/uc?id=1aUFlkQmTKSSlQg1UaeEJeFijdHf5bPBp&export=view"
+                  name="Chinmay Jindal"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1zyDv1Of0aNTY71n9HkW3GB6fjfjcSDND"
+                ></Member>
+
+                <Member
+                  name="Aruna Arunachalam"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1RNEFqm_pM-cUoPeHvSE45cFOjZ45Ztqq"
+                ></Member>
+
+                <Member
+                  name="Suhas B S"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1U48WRdUBaVwmyeuaEthnUzj6_lrNWJdM"
+                ></Member>
+
+                <Member
+                  name="Siddharth Lunawat"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1NQ5lKj0sb2cx_GPOpXpggS77q9qU1z1z"
+                ></Member>
+
+                <Member
+                  name="Adithi Purushothama"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1D51V68oN4GqV6U2bPYA4b4mM9pGf8UvF"
+                ></Member>
+
+                <Member
+                  name="Shree Lakshmi S Shekar"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1-amXgcxNqIrsNxiTFmD4mTuiEArk9KlJ"
+                ></Member>
+
+                <Member
+                  name="Likhitha C A"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1dFYD9GrQ_h5Ob3QoaXhT42D1yZcAxpxd"
+                ></Member>
+
+                <Member
+                  name="Kaustubh Kumar"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1EGsdTmun5I2OHtqWjfpBwI4lNTmqDvXL"
+                ></Member>
+
+                <Member
+                  name="Archisman Hazra"
+                  designation="Member"
+                  link="#"
+                  image="https://drive.google.com/thumbnail?id=1qnFeR7l3kOdyj8uldbnK6UFnxyH1VDqA"
                 ></Member>
               </div>
 

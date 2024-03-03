@@ -80,70 +80,68 @@ export default function Home() {
               </h1>
 
               <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
-                <Member name="Adya S"
+              <Member name="Abhishek K."
                   designation="Head"
-                  link="https://www.linkedin.com/in/adya-samantray-84215a200"
-                  image="https://drive.google.com/uc?id=15QziUgj0UJA9wnnIonjlzTOnyHpQVIwN&export=download">
-                  
-                </Member>
-
-                <Member name="Adhiraj Kar"
-                  designation="Co-Head"
-                  link="https://www.linkedin.com/in/adhiraj-kar/"
-                  image="https://drive.google.com/uc?id=1aY2HHxMgEJnEH2I1BnrlxMmnKkTm8bSs&export=download">
-                </Member>
-
-                <Member name="Prithvi Kumar"
-                  designation="Vice-Head"
-                  link="www.linkedin.com/in/prithvi---krr"
-                  image="https://drive.google.com/uc?id=1IaDswDug8jy4RXAludYs7ro-3QvmhVV-&export=download">
-                </Member>
-
-                <Member name="Ayush Jain"
-                  designation="Member"
-                  link="https://www.linkedin.com/in/ayush---jain"
-                  image="https://drive.google.com/uc?id=1rt5FJPaREHiIn8kVJoxY26i81OJWH8sW&export=download">
-                  
-                </Member>
-
-                <Member name="Abhishek K"
-                  designation="Member"
-                  link="www.linkedin.com/in/abhishek-kaushik-0a6a16243/"
+                  link="https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/"
                   image="https://drive.google.com/uc?id=1zJgSyRY2lrN7YeN0jOgmwBQ8R36ptcxk&export=download">
                   
                 </Member>
 
-                <Member name="Aditi Kulkarni"
+                <Member name="Srushti S. Shankar"
                   designation="Member"
-                  link="https://www.linkedin.com/in/aditi-kulkarni-816ab622a"
-                  image="https://drive.google.com/uc?id=1_3s3klO6INyl6ttPBCohpWsWu-9UoTEi&export=download">
+                  link="https://www.linkedin.com/in/srushti-shivshankar-7049472b2/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/Srushti%20S%20Shankar_1MS22IS137.JPG">
                 </Member>
 
-                <Member name="Tamanna Goel"
+                <Member name="Shriya A.N."
                   designation="Member"
-                  link="https://www.linkedin.com/in/tamanna-goel-831108270"
-                  image="https://drive.google.com/uc?id=1qO4B0fSVGEkTYt--WxMxCB3DJwlKrlwP&export=download">
-                </Member>
-
-                <Member name="M Shraddha Rao"
-                  designation="Member"
-                  link="https://www.linkedin.com/mwlite/in/shraddha-rao-214801241"
-                  image="https://drive.google.com/uc?id=1AQBtShM_oAThjJecG_MqnCHz-l6r47W5&export=download">
+                  link="https://www.linkedin.com/in/shriya-a-n-07384b253/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/Shriya%20A.N_1MS22BT047.jpg">
                   
                 </Member>
 
-                <Member name="Anant Sharma"
+                <Member name="Janis Lobo"
                   designation="Member"
-                  link="https://www.linkedin.com/in/anant-sharma-937660198"
-                  image="https://drive.google.com/uc?id=1Nc9Iu43NCQP0zXQ0ooLtRXjXkTI57wqB&export=download">
+                  link="https://www.linkedin.com/in/janis-lobo-b61409224/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/Janis%20Lobo_1MS22MD014.jpeg">
+                  
                 </Member>
 
-                <Member name="Rajat Tripathi"
+                <Member name="Nibha S. Dongre"
                   designation="Member"
-                  link="https://www.linkedin.com/in/rajat-tripathi-173234248"
-                  image="https://drive.google.com/uc?id=1AH1RFug2NIkK82PQVcIm_QvmEzVwc5iY&export=download">
+                  link="https://www.linkedin.com/in/nibha-dongre/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/nibhasdongre_1MS22AI040.jpg">
+                </Member>
+
+                <Member name="Ankit U. Patil"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/ankit-patil-91437616a/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/Ankit%20U%20Patil%20-%201MS21AD011.jpeg">
+                </Member>
+
+                <Member name="Jemima Jeffy"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/jemima-jeffy/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/Jemima%20Jeffy_1MS22AI019.jpeg">
                   
-                  
+                </Member>
+
+                <Member name="Cynthia Antony J."
+                  designation="Member"
+                  link="https://www.linkedin.com/in/cynthia-antony-j-518ab1260/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/CYNTHIA%20ANTONY_1MS22CY019.HEIC">
+                </Member>
+
+                <Member name="Kanishk Singh"
+                  designation="Member"
+                  link="https://www.linkedin.com/in/kanishk-singh-1a517a2a9/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/Kanishk%20Singh_1MS22CH021.jpg">
+                </Member>
+
+                <Member name="Mithira V."
+                  designation="Member"
+                  link="https://www.linkedin.com/in/mithira-grace-v-a08995281/"
+                  image="https://raw.githubusercontent.com/natashabrito/members2024/main/digital%20design/MITHIRA%20V(1MS22BT027).jpg">
                 </Member>
               </div>
 
