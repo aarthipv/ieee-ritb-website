@@ -118,7 +118,7 @@ export default function Home() {
   <Member
     name="Megha Paul"
     link="http://paul-www.linkedin.com/in/megha-paul-2757b921a"
-    image="https://drive.google.com/thumbnail?id=1U1R2AJioMHbzfYSotFAOnEpU3BfK_Hz1">
+    image="https://github.com/aarthipv/profileimages/blob/main/Megha%20Paul.png">
 
   </Member>
 
